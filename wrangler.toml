@@ -1,4 +1,4 @@
-name = "gemini"
+name = "gemini1"
 # 主入口
 main = "src/index.js"
 compatibility_date = "2025-06-17"
